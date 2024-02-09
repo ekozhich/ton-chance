@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ton-chance/static/css/main.f855e6bc.css",
+    "main.js": "/ton-chance/static/js/main.141a4dc9.js",
+    "static/js/592.2491e022.chunk.js": "/ton-chance/static/js/592.2491e022.chunk.js",
+    "index.html": "/ton-chance/index.html",
+    "main.f855e6bc.css.map": "/ton-chance/static/css/main.f855e6bc.css.map",
+    "main.141a4dc9.js.map": "/ton-chance/static/js/main.141a4dc9.js.map",
+    "592.2491e022.chunk.js.map": "/ton-chance/static/js/592.2491e022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.141a4dc9.js"
+  ]
+}
